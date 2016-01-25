@@ -1,0 +1,28 @@
+name: CTT Design
+favicon: null
+layout_spectrum: 0.0891361425165087
+typography_spectrum: 0.6345573992002755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1935852924361825
+  lightness: 0.33631974272429943
+  saturation: 0.6105083271395415
+  rhythmicContrast: 0.8361123269423842
+purpose: []
