@@ -4,14 +4,14 @@
         <description><![CDATA[CTT Design]]></description>
         <link>https://thegrid.ai/ctt-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 18:45:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ctt-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>This is my first Grid site, it makes me so excited.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6ae9b9a7d69b15a20f71dbc8e59810dca8e652a6.jpg"></article>]]></description>
             <link>https://thegrid.ai/ctt-design/test-post/index.html</link>
             <guid isPermaLink="false">8284e972-5a10-4f5b-8c35-91da4d662129</guid>
-            <pubDate>Mon, 25 Jan 2016 18:43:47 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 18:44:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
